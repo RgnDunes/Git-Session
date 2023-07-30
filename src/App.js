@@ -10,6 +10,7 @@ function App() {
         <Welcome />
         <About />
         Hola amigo.
+        <h1> sachin</h1>
       </header>
     </div>
   );
