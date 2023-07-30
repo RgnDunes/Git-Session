@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <Welcome />
         <About />
-        Hola amigo
+        Hola amigo.
       </header>
     </div>
   );
